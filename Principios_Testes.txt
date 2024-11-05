@@ -4,4 +4,10 @@ Inserindo as Fases de Teste do Processo comum de Teste:
 3. Implementação e Execução dos Testes;
 4. Avaliação do Resultados; e
 5. Relatórios.
+
 Quais os Princípios de Testes previsto na Literatura:
+1. A Ilusão da ausência de erros;
+2. Teste depende de contexto;
+3. Teste Antecipado;
+4. Paradoxo do Pesticida;
+5. 
